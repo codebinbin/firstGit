@@ -8,5 +8,5 @@ public interface Test01 {
 	public void test1();
 	
 	//²âÊÔ·ÖÖ§testtest
-	public void testtest();
+	public void testte();
 }
