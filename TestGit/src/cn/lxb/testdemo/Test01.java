@@ -13,5 +13,8 @@ public interface Test01 {
 	//binbin又添加了方法testGit04
 	public void testGit04();
 	
+	//dandan又添加了方法testGit05
+	public void testGit05();
+	
 	
 }
