@@ -19,4 +19,7 @@ public interface Test01 {
 	//dandan又添加了方法testGit06
 	public void testGit06();
 	
+	//dandan又添加了方法testGit07
+		public void testGit07();
+	
 }
