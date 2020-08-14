@@ -9,4 +9,9 @@ public interface Test01 {
 	
 	//binbin又更新了方法
 	public void testGit03();
+	
+	//binbin又添加了方法testGit04
+	public void testGit04();
+	
+	
 }
