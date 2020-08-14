@@ -6,4 +6,7 @@ public interface Test01 {
 	
 	//binbin更新了方法
 	public void testGit02();
+	
+	//binbin又更新了方法
+	public void testGit03();
 }
